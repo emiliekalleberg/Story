@@ -1,1 +1,2 @@
-This is the second chapter
+This is the second alien chapter
+Changes in the alien-plot branch
